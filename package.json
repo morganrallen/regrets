@@ -1,0 +1,11 @@
+{
+  "name": "regrets",
+  "version": "1.0.0",
+  "description": "Because some people know JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Morgan 'ARR!' Allen",
+  "license": "MIT"
+}
